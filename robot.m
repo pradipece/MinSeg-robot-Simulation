@@ -1,4 +1,4 @@
-%Humanoid Robot MATLAB Simulation
+%HM Robot MATLAB Simulation
 %Pradip Nath
 w=0;
 p=0;
